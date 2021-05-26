@@ -1,7 +1,13 @@
 ### Hi there 👋
-
+<!--
 [![xandecoelho5's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandecoelho5&count_private=true&show_icons=true&theme=dracula)](https://github.com/xandecoelho5/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula)](https://github.com/xandecoelho5/github-readme-stats)
+-->
+
+<a href="https://github.com/xandecoelho5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **xandecoelho5/xandecoelho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
