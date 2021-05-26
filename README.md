@@ -5,7 +5,7 @@
 -->
 
 <a href="https://github.com/xandecoelho5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula" />
 </a>
 
