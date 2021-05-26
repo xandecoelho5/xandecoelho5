@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xandecoelho5&repo=github-readme-stats)](https://github.com/xandecoelho5/github-readme-stats)
+
 <!--
 **xandecoelho5/xandecoelho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
