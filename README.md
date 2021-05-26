@@ -1,12 +1,8 @@
 ### Hi there 👋
-<!--
-[![xandecoelho5's GitHub stats](https://github-readme-stats.vercel.app/api?username=xandecoelho5&count_private=true&show_icons=true&theme=dracula)](https://github.com/xandecoelho5/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula)](https://github.com/xandecoelho5/github-readme-stats)
--->
 
 <a href="https://github.com/xandecoelho5">
   <img height= "165em" align="center" src="https://github-readme-stats.vercel.app/api/?username=xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
-  <img heigth= "165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula" />
+  <img heigth= "165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula&langs_count=8" />
 </a>
 
 <!--
