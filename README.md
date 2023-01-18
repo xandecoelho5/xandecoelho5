@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<a href="https://github.com/xandecoelho5">
+<!-- <a href="https://github.com/xandecoelho5">
   <img height= "165em" align="center" src="https://github-readme-stats.vercel.app/api/?username=xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
   <img heigth= "165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula&hide=HTML,CSS,SCSS,ShaderLab&langs_count=6" />
-</a>
+</a> -->
 
 <!--
 **xandecoelho5/xandecoelho5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
