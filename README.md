@@ -2,7 +2,7 @@
 
 <a href="https://github.com/xandecoelho5">
   <img height= "165em" align="center" src="https://readme-stats.clckblog.space/api/?username=xandecoelho5&count_private=true&show_icons=true&theme=dracula" />
-  <img heigth= "165em" align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula&hide=HTML,CSS,SCSS,ShaderLab&langs_count=6" />
+  <img heigth= "165em" align="center" src="https://readme-stats.clckblog.space/api/top-langs/?username=xandecoelho5&layout=compact&theme=dracula&hide=HTML,CSS,SCSS,ShaderLab,CMake&langs_count=6" />
 </a>
 
 <!--
